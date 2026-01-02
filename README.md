@@ -1,11 +1,8 @@
+<h1 align="left">Hi 👋 Welcome to my profile</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Mohamed Rabe3 and I'm a Ai engineer from Egypt</p>
+<p align="left">My name is Mohamed Rabe3, and I am an AI Engineer based in Egypt.</p>
 
 ###
 
@@ -13,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning AI engineering<br>🎯 Goals: reach AGI</p>
+<p align="left">✨ Building and debugging systems since 2024<br>📚 Currently focusing on AI Engineering<br>🎯 Long-term goal: contributing to AGI research</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -44,6 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
+
+###
+
+<h2 align="left">Find me online</h2>
 
 ###
 
